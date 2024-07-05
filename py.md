@@ -45,6 +45,13 @@ List
     - [] - syntax  
 Tuple
     - Very much restricted
+    - ()
+Set
+    - UNordered collection
+    - {}
+
+### FOR vs WHILE  
+If there is no n values then we use WHILE
 
 
 
