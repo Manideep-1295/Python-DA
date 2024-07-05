@@ -26,9 +26,10 @@ Case Study
 
 
 ### Variable 
-Memory holder - singular value
-Python is a type inference language
-(Based)
+Memory holder - singular value  
+
+>Python is a type inference language (Based)  
+
 Lazy evaluaiton  (No need of main method)
 Diff variables with same value and data type point to same addr loc
 Every varibale is an object
@@ -54,4 +55,37 @@ Set
 If there is no n values then we use WHILE
 
 
+### Functions
+```py
+# Parameterized function
+def function_name(parameters):
+    #Statements
 
+function_name(arguments)  # Calling a function
+```
+
+
+
+### Importing Modules
+```py
+from module_name import *
+# With this syntax we dont need to give prefix of module_name
+
+function()
+
+import module_name # It imports all things without any restrictions
+# With this syntax, we need to provide the module_name as prefix
+module_name.function()
+
+```
+
+## OOPs
+1. Class
+    - Every class name has convention as Camel Case
+    - Doesn't holds memory
+    - Its a blueprint/plan/structure
+2. Object 
+    - Its a reference to access the class properties
+    - self is just like object 
+3. Inheritance
+    - 
