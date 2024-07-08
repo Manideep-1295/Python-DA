@@ -88,4 +88,31 @@ module_name.function()
     - Its a reference to access the class properties
     - self is just like object 
 3. Inheritance
-    - 
+    - types
+    - Single
+    - Multi level
+    - Multiple
+    - Hybrid
+4. Polymorphism
+    - Compile Time
+    - Run Time
+
+
+### Multi-Threading
+- Run()
+- Start()
+- Join()
+
+### File Handling
+
+### Lambda Funcitons
+
+### Iterators
+
+### Map
+
+### Filter
+
+### Reduce
+
+### RegEx
