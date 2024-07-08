@@ -97,22 +97,27 @@ module_name.function()
     - Compile Time
     - Run Time
 
-
+- 08-07-24
 ### Multi-Threading
 - Run()
 - Start()
 - Join()
 
 ### File Handling
-
+1. Read
+2. Write
+4. Append
 ### Lambda Funcitons
+lambda arguments:expression
+### Map
+map(function,collection)
+### Filter
+filter(function with condition,collection)
+### Reduce
+reduce(func with xprsn, collection)
+func with xprsn includes the operation to be done to cumulate sum or multiplication
+
+-- Pending
+### RegEx
 
 ### Iterators
-
-### Map
-
-### Filter
-
-### Reduce
-
-### RegEx

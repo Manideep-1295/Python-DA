@@ -36,7 +36,7 @@ print(res)
 # Filter
 li = [1,2,3,4,5]
 res = list(filter(lambda x: x%2==0,li))
-ans = filter(lambda x:,li)
+ans = filter(lambda x:x<3,li)
 
 print(res)
 
