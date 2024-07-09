@@ -117,7 +117,24 @@ filter(function with condition,collection)
 reduce(func with xprsn, collection)
 func with xprsn includes the operation to be done to cumulate sum or multiplication
 
+### Zip 
+Combines 2 or more collections
+
 -- Pending
 ### RegEx
 
 ### Iterators
+
+
+09-07-2024
+
+### Pandas
+1. Filtering and Ordering
+    - drop_duplicates()
+    - 
+2. Aggregating and Group By
+3. Indexing
+4. Joins, Merge
+5. Visualize 
+
+### NumPy
