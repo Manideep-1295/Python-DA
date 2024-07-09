@@ -122,19 +122,23 @@ Combines 2 or more collections
 
 -- Pending
 ### RegEx
+Yet to discuss
 
 ### Iterators
-
+Yet to discuss
 
 09-07-2024
 
 ### Pandas
 1. Filtering and Ordering
     - drop_duplicates()
-    - 
+    - dropna()
+    - fillna()
+    - df.filter()
 2. Aggregating and Group By
 3. Indexing
 4. Joins, Merge
 5. Visualize 
 
 ### NumPy
+Yet to discuss
