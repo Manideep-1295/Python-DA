@@ -1,0 +1,11 @@
+,animal,age,visits,priority,labels
+0,cat,2.5,1,yes,a
+1,cat,3.0,3,yes,b
+2,snake,0.5,2,no,c
+3,dog,,3,yes,d
+4,dog,5.0,2,no,e
+5,cat,2.0,3,no,f
+6,snake,4.5,1,no,g
+7,cat,,1,yes,h
+8,dog,7.0,2,no,i
+9,dog,3.0,1,no,j
